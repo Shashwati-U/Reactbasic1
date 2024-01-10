@@ -11,7 +11,7 @@ to set your account's default identity.Omit --glob
 
 git status
 
-git add filename or ,
+git add filename or .
 
 git status
 
