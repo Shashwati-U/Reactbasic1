@@ -5,3 +5,50 @@ Run
     git config --global user.email "shashwatiurkude.21@stvincentngp.edu.in"
     git config --global user.name "Shashwati-U"
 to set your account's default identity.Omit --glob
+
+
+
+
+git status
+
+git add filename or ,
+
+git status
+
+git commit -m ""
+
+git status
+
+git push
+
+
+
+
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo
+$ git clone https://github.com/Shashwati-U/Reactbasic1.git
+Cloning into 'Reactbasic1'...
+warning: You appear to have cloned an empty repository.
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo
+$ ls
+Reactbasic1/
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo
+$ cd Reactbasic1/
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo/Reactbasic1 (main)
+$ code .
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo/Reactbasic1 (main)
+$ 
+
+
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo/Reactbasic1 (main)
+$ git commit -m "console check"
+[main (root-commit) ebdfc55] console check
+ 1 file changed, 1 insertion(+)
+ create mode 100644 basic.js
+
+LENOVO@LAPTOP-2UKO82G1 MINGW64 /d/React_Js/MyRepo/Reactbasic1 (main)
