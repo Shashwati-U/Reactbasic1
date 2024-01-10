@@ -1,0 +1,7 @@
+
+$ git commit -m "New file update"Author identity unkown
+* * * Please tell me who you are.
+Run
+    git config --global user.email "shashwatiurkude.21@stvincentngp.edu.in"
+    git config --global user.name "Shashwati-U"
+to set your account's default identity.Omit --glob
